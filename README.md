@@ -1,7 +1,7 @@
 # Simple_Django_Project
 A simple Django project using Python and HTML.
 
-#### Web browser view :-
+### Web browser view :-
 
 ![image](https://github.com/user-attachments/assets/5ff79885-8435-4bbd-bf4f-51edc7e8cf6e) 
 
@@ -9,7 +9,7 @@ A simple Django project using Python and HTML.
 
 ---
 
-#### Step to run the project :-
+### Step to run the project :-
 
 1. Download the project file to a local repo (computer).
 
