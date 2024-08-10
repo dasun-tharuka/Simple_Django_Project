@@ -1,12 +1,6 @@
 # Simple_Django_Project
 A simple Django project using Python and HTML.
 
-### Web browser view :-
-
-![image](https://github.com/user-attachments/assets/5ff79885-8435-4bbd-bf4f-51edc7e8cf6e) 
-
-![image](https://github.com/user-attachments/assets/84e24a29-98b1-44a9-864b-68e68c115946)
-
 ---
 
 ### Step to run the project :-
@@ -24,3 +18,9 @@ A simple Django project using Python and HTML.
 6. To run the program in local server use the following command <br> <code> python manage.py runserver </code>
 
 ---
+
+### Web browser view :-
+
+![image](https://github.com/user-attachments/assets/5ff79885-8435-4bbd-bf4f-51edc7e8cf6e) 
+
+![image](https://github.com/user-attachments/assets/84e24a29-98b1-44a9-864b-68e68c115946)
