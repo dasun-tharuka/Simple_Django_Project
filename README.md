@@ -5,7 +5,7 @@ A simple Django project using Python and HTML.
 
 ![image](https://github.com/user-attachments/assets/5ff79885-8435-4bbd-bf4f-51edc7e8cf6e) 
 
-![image](https://github.com/user-attachments/assets/6bdbdf3b-b351-4b0c-b05d-6763117d8fbf)
+![image](https://github.com/user-attachments/assets/84e24a29-98b1-44a9-864b-68e68c115946)
 
 ---
 
